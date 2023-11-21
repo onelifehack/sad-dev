@@ -1,2 +1,2 @@
 // king.sz
-console.log("Love.");
+console.log("Love...");
